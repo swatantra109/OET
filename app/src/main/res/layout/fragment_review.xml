@@ -157,7 +157,7 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
                 android:gravity="left"
-                android:text="Right Answerss :-"
+                android:text="Right Answerssa :-"
                 android:textColor="#fff" />
         </LinearLayout>
 
