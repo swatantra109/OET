@@ -152,7 +152,13 @@
                 android:gravity="left"
                 android:text="Right Answer :-"
                 android:textColor="#fff" />
-
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:gravity="left"
+                android:text="Right Answerss :-"
+                android:textColor="#fff" />
         </LinearLayout>
 
     </LinearLayout>
