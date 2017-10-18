@@ -1,7 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="changepasswordOtp" type="JSON" />
       <mapping pattern="registration" type="PLAIN_TEXT" />
+      <mapping pattern="confirmOtp" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
